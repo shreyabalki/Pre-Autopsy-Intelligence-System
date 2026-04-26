@@ -1,0 +1,60 @@
+SYNTHETIC DEMO TOXICOLOGY REPORT — NOT REAL PATIENT DATA
+Case ID: DEMO-TOX-002
+Specimen Type: Postmortem Blood, Central (femoral) + Peripheral (subclavian)
+Collection Date/Time: See case file
+
+============================================================
+TOXICOLOGY PANEL RESULTS
+============================================================
+
+VOLATILE COMPOUNDS
+  Ethanol:              0.21 g/dL    [Reference < 0.08 g/dL]    ** ELEVATED **
+
+DRUGS OF ABUSE SCREEN / CONFIRMATORY
+  Opioids (Screen):     POSITIVE
+    → Morphine (GC-MS): 180 ng/mL   [Reference < 20 ng/mL]     ** ELEVATED **
+    → Codeine:          Not detected
+    → Heroin Metabolite:Not detected
+  Benzodiazepines:      POSITIVE
+    → Diazepam (GC-MS): 420 ng/mL   [Reference < 200 ng/mL]    ** ELEVATED **
+    → Nordazepam:       110 ng/mL    [Reference < 100 ng/mL]    BORDERLINE
+  Cocaine Metabolite:   Not detected [Reference: Not detected]  WITHIN NORMAL LIMITS
+  Amphetamines:         Negative     [Reference: Negative]      WITHIN NORMAL LIMITS
+  Cannabinoids (THC):   Negative     [Reference: Negative]      WITHIN NORMAL LIMITS
+
+THERAPEUTIC DRUGS
+  Acetaminophen:        14.5 mcg/mL  [Reference < 20 mcg/mL]   WITHIN NORMAL LIMITS
+  Salicylate:           8.1 mg/dL    [Reference < 30 mg/dL]    WITHIN NORMAL LIMITS
+
+CARBON MONOXIDE / GAS
+  Carboxyhemoglobin:    3.1%         [Reference < 5%]           WITHIN NORMAL LIMITS
+
+============================================================
+INTERPRETATION
+============================================================
+
+Multiple substance interaction detected. Combined CNS depressant effect
+from concurrent alcohol + opioid (morphine) + benzodiazepine (diazepam)
+exposure identified.
+
+Poly-substance synergism presents elevated risk profile. The combination
+of alcohol with opioids and benzodiazepines carries significant potential
+for respiratory depression, even at individually sub-lethal concentrations.
+
+Confirmatory GC-MS testing performed. Expert forensic toxicologist review
+and correlation with autopsy findings is strongly recommended.
+
+Causation of death requires expert determination — this report provides
+screening data only.
+
+============================================================
+REPORT NOTES
+============================================================
+
+This is SYNTHETIC demo data generated for AI screening demonstration.
+No real patient information is contained in this report.
+Reference format based on MIMIC-IV forensic toxicology documentation style.
+Not for clinical, legal, or diagnostic use.
+
+Analyst: DEMO SYSTEM
+Laboratory: DEMO FORENSIC TOXICOLOGY LABORATORY

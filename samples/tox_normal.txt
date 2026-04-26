@@ -1,0 +1,51 @@
+SYNTHETIC DEMO TOXICOLOGY REPORT — NOT REAL PATIENT DATA
+Case ID: DEMO-TOX-001
+Specimen Type: Postmortem Blood, Central (femoral)
+Collection Date/Time: See case file
+
+============================================================
+TOXICOLOGY PANEL RESULTS
+============================================================
+
+VOLATILE COMPOUNDS
+  Ethanol:              < 0.01 g/dL   [Reference < 0.08 g/dL]   WITHIN NORMAL LIMITS
+
+DRUGS OF ABUSE SCREEN
+  Opioids (Screen):     Negative       [Reference: Negative]      WITHIN NORMAL LIMITS
+  Benzodiazepines:      Negative       [Reference: Negative]      WITHIN NORMAL LIMITS
+  Cocaine Metabolite:   Not detected   [Reference: Not detected]  WITHIN NORMAL LIMITS
+  Amphetamines:         Negative       [Reference: Negative]      WITHIN NORMAL LIMITS
+  Cannabinoids (THC):   Negative       [Reference: Negative]      WITHIN NORMAL LIMITS
+
+THERAPEUTIC DRUGS
+  Acetaminophen:        7.4 mcg/mL    [Reference < 20 mcg/mL]   WITHIN NORMAL LIMITS
+  Salicylate:           < 2.0 mg/dL   [Reference < 30 mg/dL]    WITHIN NORMAL LIMITS
+
+CARBON MONOXIDE / GAS
+  Carboxyhemoglobin:    1.1%          [Reference < 5%]           WITHIN NORMAL LIMITS
+
+HEAVY METALS (if requested)
+  Not requested for this panel.
+
+============================================================
+INTERPRETATION
+============================================================
+
+No toxic substances detected above established reference thresholds.
+No evidence of drug intoxication, chemical poisoning, or toxic exposure
+at or near the time of death. All screened analytes within normal limits.
+
+Confirmatory testing not indicated based on current results.
+Recommend correlation with clinical and scene findings by qualified pathologist.
+
+============================================================
+REPORT NOTES
+============================================================
+
+This is SYNTHETIC demo data generated for AI screening demonstration.
+No real patient information is contained in this report.
+Reference format based on MIMIC-IV forensic toxicology documentation style.
+Not for clinical, legal, or diagnostic use.
+
+Analyst: DEMO SYSTEM
+Laboratory: DEMO FORENSIC TOXICOLOGY LABORATORY
